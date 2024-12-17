@@ -46,7 +46,7 @@ a {
 
 /* Hero Section */
 .hero-section {
-    background-image: url(../images/hero_bg2.jpg); /* Replace with actual image */
+    background-image: url(../images/hero_sect.png); /* Replace with actual image */
     background-size: cover;
     background-position: center;
     color: white;
