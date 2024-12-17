@@ -21,7 +21,7 @@ a {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #900;
+    background-color: #D22630;
     color: white;
     padding: 10px 20px;
 }
@@ -44,14 +44,6 @@ a {
     color: #f3f3f3;
 }
 
-footer {
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    padding: 10px 0;
-    margin-top: 20px;
-}
-
 /* News Section */
 .news-section,.announcement-section {
     max-width: 900px;
@@ -65,7 +57,7 @@ footer {
 
 .news-section h2, .announcement-section h2 {
     font-size: 32px;
-    color: #ff4500;
+    color: #D22630;
     margin-bottom: 20px;
 }
 
@@ -75,7 +67,7 @@ footer {
 
 .tournament-results h3, .game-announcements h3 {
     font-size: 24px;
-    color: #333;
+    color: #7e0303;
     margin-bottom: 15px;
 }
 
@@ -109,7 +101,7 @@ footer {
 
 .result-details h4, .announcement-details h4 {
     font-size: 20px;
-    color: #ff4500;
+    color: #D22630;
     margin: 8px;
     margin-left: 0px;
 
@@ -118,4 +110,12 @@ footer {
     font-size: 14px;
     color: #555;
     margin: 5px 0;
+}
+
+footer {
+    background-color: #D22630;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
 }
