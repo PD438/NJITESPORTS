@@ -24,11 +24,16 @@ a {
     background-color: #D22630;
     color: white;
     padding: 10px 20px;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .5);
 }
 
-.logo {
+.logo a{
     font-size: 24px;
     font-weight: bold;
+    color: white;
 }
 
 .nav-bar ul {
